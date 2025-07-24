@@ -7,7 +7,7 @@ Passionate about web development and building creative mobile applications.
 - 🌍  I'm based in Mahasarakham
 - 🖥️  See my portfolio at [portfolio_website](http://github.com/Oat-dev2005/portfolio_website)
 - ✉️  Contact me at [surapich23@gmail.com](mailto:surapich23@gmail.com)
-- 🧠  I'm currently learning Javascript ,Typescript ,Dart ,Java ,C++ ,C#
+- 🧠  I'm currently learning : <b>Javascript ,Typescript ,Dart ,Java ,C++ ,C#</b>
 
 ### Skills
 
