@@ -6,7 +6,7 @@ Passionate about web development and building creative mobile applications.
 
 - 🌍  I'm based in Mahasarakham
 - 🖥️  See my portfolio at [portfolio_website](http://github.com/Oat-dev2005/portfolio_website)
-- ✉️  You can contact me at [surapich23@gmail.com](mailto:surapich23@gmail.com)
+- ✉️  Contact me at [surapich23@gmail.com](mailto:surapich23@gmail.com)
 - 🧠  I'm currently learning Javascript ,Typescript ,Dart ,Java ,C++ ,C#
 
 ### Skills
@@ -17,7 +17,7 @@ Passionate about web development and building creative mobile applications.
 
 ### Certificate
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
   <img src="https://github.com/user-attachments/assets/51bced2a-7668-44e8-ba82-70b15f922698" width="250" />
   <img src="https://github.com/user-attachments/assets/3de5d094-fc4f-4a60-b005-ac00b22d00fb" width="250" />
   <img src="https://github.com/user-attachments/assets/aceec59b-8b50-40c2-aa8d-b39bf5fda743" width="250" />
@@ -25,12 +25,6 @@ Passionate about web development and building creative mobile applications.
   <img src="https://github.com/user-attachments/assets/78202037-35cf-4b10-ac1b-b921df3e25a8" width="250" />
 </div>
 
-<!-- <img width="1684" height="1240" alt="borntodev-academy_GitHub for Developer _certificate" src="https://github.com/user-attachments/assets/51bced2a-7668-44e8-ba82-70b15f922698" />
-<img width="1684" height="1240" alt="borntodev-academy_Lite _ Fundamental Web Dev with HTML5   CSS3_certificate" src="https://github.com/user-attachments/assets/3de5d094-fc4f-4a60-b005-ac00b22d00fb" />
-<img width="1200" height="800" alt="22-1743536403-certificate_mca" src="https://github.com/user-attachments/assets/aceec59b-8b50-40c2-aa8d-b39bf5fda743" />
-<img width="2339" height="1654" alt="cert2" src="https://github.com/user-attachments/assets/5f7f9173-f10c-49dd-939b-dc424a9ad7df" />
-<img width="2339" height="1654" alt="cert3" src="https://github.com/user-attachments/assets/78202037-35cf-4b10-ac1b-b921df3e25a8" /> -->
-
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/surapich.klaeothanong.3/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a>   <a href="https://www.github.com/Oat-dev2005" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a>    <a href="http://www.instagram.com/ka0_0at_05/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instragram" title="Instragram" /> </picture> </a>   </p>
+<p align="left"> <a href="https://www.facebook.com/surapich.klaeothanong.3/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a>         <a href="https://www.github.com/Oat-dev2005" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a>          <a href="http://www.instagram.com/ka0_0at_05/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instragram" title="Instragram" /> </picture> </a>   </p>
