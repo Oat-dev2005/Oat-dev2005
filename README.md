@@ -17,7 +17,7 @@ Passionate about web development and building creative mobile applications.
 
 ### Certificate
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px;">
   <img src="https://github.com/user-attachments/assets/51bced2a-7668-44e8-ba82-70b15f922698" width="250" />
   <img src="https://github.com/user-attachments/assets/3de5d094-fc4f-4a60-b005-ac00b22d00fb" width="250" />
   <img src="https://github.com/user-attachments/assets/aceec59b-8b50-40c2-aa8d-b39bf5fda743" width="250" />
